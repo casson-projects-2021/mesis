@@ -5,3 +5,4 @@ At the moment is a terrible mess of a code (working, but you can use it as an ex
 
 Mesis is written in C++ using Emscripten as a WebAssembly.
 
+It is a single-file project that can be compiled using Emscripten without mantaining a MAKE file.
